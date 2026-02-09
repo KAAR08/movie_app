@@ -61,7 +61,9 @@ class MovieCard extends StatelessWidget {
                         MaterialPageRoute(
                             builder: (context) => MovieDetails(
                                   movie: movie,
-                                )));
+                                )
+                                )
+                                );
                   },
                   child: const Text("Read More"),
                 )
