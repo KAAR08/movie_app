@@ -20,6 +20,7 @@ Home Page
 
 
 
+
 Movie Details Page
 
 !["Movie Detail Screen"](./assets/screenshots/movie_detail.png)
